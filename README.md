@@ -1,0 +1,2 @@
+# pomiar
+LINKED LIST VS ARRAYLIST
